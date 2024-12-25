@@ -460,7 +460,7 @@ div.containerfooterright {
     overflow: hidden;
 }
 .ipsfooter {
-    background-image: url('../img/Ipscover.jpg');
+    background-image: url('../img/Ipscover.JPG');
     background-size: cover;
     background-position: center;
 }
@@ -793,7 +793,7 @@ strong {
 
 
 .bannerips {
-    background-image: url('../img/Ceppi.jpg');
+    background-image: url('../img/Ceppi.JPG');
     background-position: top;
     background-size: cover;
     height: 80vh;
