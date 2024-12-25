@@ -443,7 +443,7 @@ div.containerfooterright {
     overflow: hidden;
 }
 .panoramifooter {
-    background-image: url('../img/Panoramicover.jpg');
+    background-image: url('../img/biral.JPG');
     background-size: cover;
     background-position: center;
 }
@@ -465,7 +465,7 @@ div.containerfooterright {
     background-position: center;
 }
 .esclusionifooter{
-    background-image: url('../img/ritagli/as.JPG');
+    background-image: url('../img/asss.JPG');
     background-size: cover;
     background-position: center;
 }
@@ -519,7 +519,7 @@ div.rightfooter:hover p {
 
 .projheader {
     height: 100vh;
-    background-image: url('../img/alberiproj.jpg');
+    background-image: url('../img/ali.JPG');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -625,7 +625,7 @@ header .projyear {
 
 
 .banneresclusioni {
-    background-image: url('../img/ritagli/Maniscuola.jpg');
+    background-image: url('../img/ali.JPG');
     background-position: bottom;
     background-size: cover;
     height: 80vh;
@@ -793,7 +793,7 @@ strong {
 
 
 .bannerips {
-    background-image: url('../img/Ceppi.JPG');
+    background-image: url('../img/cc.JPG');
     background-position: top;
     background-size: cover;
     height: 80vh;
@@ -1335,7 +1335,7 @@ strong {
 
 .contactheader {
     height: 100vh;
-    background-image: url('../img/ContattoII.jpg');
+    background-image: url('../img/gg.JPG');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1372,7 +1372,7 @@ strong {
 
 .aboutheader {
     height: 100vh;
-    background-image: url('../img/Giovanni_retrotesta_sfondo.jpg');
+    background-image: url('../img/rion.JPG');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1414,7 +1414,7 @@ strong {
 }
 
 .aboutimagebanner {
-    background-image: url('../img/Tommaso_Battisti_an.jpg');
+    background-image: url('../img/riri.JPG');
     background-position: center center;
     background-size: cover;
     width: 100%;
