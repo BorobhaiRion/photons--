@@ -1416,14 +1416,16 @@ strong {
 .aboutimagebanner {
     background-image: url('../img/riri.JPG');
     background-position: center center;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100%;
+    min-height: 100vh;
 }
 
 .textbannerabout {   
     font-family: 'Montserrat', sans-serif;
-    font-size: 4.5vw;
+    font-size: 3.5vw;
     font-weight: 500;
     height: 100%;
     line-height: 1.1em;
